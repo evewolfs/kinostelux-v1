@@ -1,0 +1,996 @@
+.lang-nav a, form, .navbar.transparent.navbar-inverse #text, select, .doctor-job, .doctor-school, .doctor-phone, .doctor-spec-title, .doctor-description {
+  font-family: circe, sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  line-height: 1.6;
+  color: #2E314C;
+}
+
+input[type="submit"], input[type="reset"], button, #custom-button-header {
+  color: #2E314C;
+  border: none;
+  cursor: pointer;
+  outline: inherit;
+  padding: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-family: circe, sans-serif !important;
+  font-weight: 400;
+  border: 0.5px solid rgba(160, 160, 233, 0.534);
+  border-radius: 30px !important;
+  background: white;
+  font-size: 14px !important;
+}
+
+input:hover[type="submit"], input:hover[type="reset"], button:hover, #custom-button-header:hover {
+  border-color: #acafcd;
+}
+
+#custom-button-header {
+  background-color: transparent !important;
+  border-radius: 30px;
+  color: rgba(160, 160, 233, 0.534);
+  padding: 5px !important;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  font-weight: 200 !important;
+  margin: 10px;
+  margin-left: 3%;
+}
+
+#custom-button-header:hover {
+  color: #2E314C !important;
+  border: 1px solid rgba(18, 16, 76, 0.7) !important;
+  background-color: transparent;
+}
+
+#mikrono {
+  margin-top: 20px;
+  color: #2E314C !important;
+  font-family: circe, sans-serif !important;
+  font-weight: 200 impotant !important;
+  overflow: hidden;
+}
+
+#mikrono body {
+  padding: 15%;
+  font-family: circe, sans-serif !important;
+}
+
+#mikrono .x-customerAppsView .custAppType {
+  color: inherit !important;
+}
+
+#mikrono .custNextAppointments {
+  color: inherit !important;
+}
+
+#mikrono .x-form-group-label {
+  pointer-events: none;
+}
+
+#mikrono .x-form-cb-label {
+  pointer-events: none;
+}
+
+#mikrono input[type='radio'] {
+  height: 15px !important;
+  width: 50px !important;
+  line-height: 15px !important;
+  border-radius: 30px !important;
+  border: 1px solid rgba(18, 16, 76, 0.3) !important;
+}
+
+#mikrono input {
+  padding: 5px !important;
+}
+
+#mikrono .custSelectCustomer {
+  background: rgba(160, 160, 233, 0.1) !important;
+  font-family: circe, sans-serif !important;
+  font-weight: 200 !important;
+}
+
+#mikrono .custSelectOwner {
+  background: rgba(160, 160, 233, 0.1) !important;
+  font-family: circe, sans-serif !important;
+  font-weight: 200 !important;
+}
+
+#mikrono html {
+  font-family: circe, sans-serif !important;
+}
+
+#mikrono div {
+  font-family: circe, sans-serif !important;
+}
+
+#mikrono dl {
+  font-family: circe, sans-serif !important;
+}
+
+#mikrono dt {
+  font-family: circe, sans-serif !important;
+}
+
+#mikrono dd {
+  font-family: circe, sans-serif !important;
+}
+
+#mikrono ul {
+  font-family: circe, sans-serif !important;
+}
+
+#mikrono ol {
+  font-family: circe, sans-serif !important;
+}
+
+#mikrono li {
+  font-family: circe, sans-serif !important;
+}
+
+#mikrono h1 {
+  font-family: circe, sans-serif !important;
+}
+
+#mikrono h2 {
+  font-family: circe, sans-serif !important;
+}
+
+#mikrono h3 {
+  font-family: circe, sans-serif !important;
+}
+
+#mikrono h4 {
+  font-family: circe, sans-serif !important;
+}
+
+#mikrono h5 {
+  font-family: circe, sans-serif !important;
+}
+
+#mikrono h6 {
+  font-family: circe, sans-serif !important;
+}
+
+#mikrono pre {
+  font-family: circe, sans-serif !important;
+}
+
+#mikrono form {
+  font-family: circe, sans-serif !important;
+}
+
+#mikrono fieldset {
+  font-family: circe, sans-serif !important;
+}
+
+#mikrono p {
+  font-family: circe, sans-serif !important;
+}
+
+#mikrono blockquote {
+  font-family: circe, sans-serif !important;
+}
+
+#mikrono th {
+  font-family: circe, sans-serif !important;
+}
+
+#mikrono td {
+  font-family: circe, sans-serif !important;
+  padding: 5px !important;
+}
+
+#mikrono .custModifyContacts {
+  border-radius: 30px;
+  border: 1px solid rgba(160, 160, 233, 0.3) !important;
+}
+
+#mikrono .customerLabel {
+  color: #2E314C !important;
+  color: #2E314C !important;
+  font-family: circe, sans-serif !important;
+  font-weight: 400 impotant !important;
+}
+
+#mikrono .custStepHeader {
+  color: #2E314C !important;
+  font-weight: 200;
+  font-size: 12px;
+  color: #2E314C !important;
+  font-family: circe, sans-serif !important;
+  font-weight: 200 !important;
+}
+
+#mikrono .custOdd {
+  background: rgba(160, 160, 233, 0.1) !important;
+  border-radius: 30px !important;
+  margin: 2%;
+  color: #2E314C !important;
+  font-family: circe, sans-serif !important;
+  font-weight: 200 !important;
+}
+
+#mikrono .custOdd:hover {
+  background: rgba(160, 160, 233, 0.3) !important;
+}
+
+#mikrono .custEven {
+  background: rgba(160, 160, 233, 0.1) !important;
+  border-radius: 30px !important;
+  margin: 2%;
+  color: #2E314C !important;
+  font-family: circe, sans-serif !important;
+  font-weight: 200 !important;
+}
+
+#mikrono .custEven:hover {
+  background: rgba(160, 160, 233, 0.3) !important;
+}
+
+#mikrono .custWarningContainer {
+  background: transparent !important;
+}
+
+#mikrono .freeslotList .custAppTime {
+  color: #2E314C !important;
+  font-weight: 200;
+}
+
+#mikrono .freeslotList .custAppDate {
+  color: inherit !important;
+  border-color: #2E314C !important;
+}
+
+#mikrono .freeslotList .x-customerAppsView:hover {
+  border: 1px solid rgba(18, 16, 76, 0.7) !important;
+  background-color: transparent !important;
+  color: #2E314C !important;
+  border: 1px solid rgba(18, 16, 76, 0.7) !important;
+  background-color: transparent;
+}
+
+#mikrono .custSummaryValue {
+  color: inherit !important;
+  border-color: #2E314C !important;
+}
+
+#mikrono .x-view-item-over {
+  background-color: white !important;
+}
+
+#mikrono .custAppDate {
+  background-color: white !important;
+}
+
+#mikrono .x-view {
+  background-color: transparent !important;
+}
+
+#mikrono .custAskButton {
+  background-color: transparent !important;
+  border-radius: 30px;
+  border: 1px solid rgba(18, 16, 76, 0.3) !important;
+  color: #2E314C !important;
+  box-shadow: none;
+  padding: 5px !important;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  color: #2E314C !important;
+  font-family: circe, sans-serif !important;
+  font-weight: 200 impotant !important;
+  margin: 10px;
+}
+
+#mikrono .custAskButton:hover {
+  color: #2E314C !important;
+  border: 1px solid rgba(18, 16, 76, 0.7) !important;
+  background-color: transparent;
+}
+
+#mikrono .custBookButton {
+  background-color: transparent !important;
+  border-radius: 30px;
+  border: 1px solid rgba(18, 16, 76, 0.3) !important;
+  color: #2E314C !important;
+  box-shadow: none;
+  padding: 5px !important;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  color: #2E314C !important;
+  font-family: circe, sans-serif !important;
+  font-weight: 200 impotant !important;
+  margin: 10px;
+}
+
+#mikrono .custBookButton:hover {
+  color: #2E314C !important;
+  border: 1px solid rgba(18, 16, 76, 0.7) !important;
+  background-color: transparent;
+}
+
+#mikrono .custQuit {
+  background-color: transparent !important;
+  border-radius: 30px;
+  border: 1px solid rgba(18, 16, 76, 0.3) !important;
+  color: #2E314C !important;
+  box-shadow: none;
+  padding: 5px !important;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  color: #2E314C !important;
+  font-family: circe, sans-serif !important;
+  font-weight: 200 impotant !important;
+  margin: 10px;
+}
+
+#mikrono .custQuit:hover {
+  color: #2E314C !important;
+  border: 1px solid rgba(18, 16, 76, 0.7) !important;
+  background-color: transparent;
+}
+
+#mikrono .custModifyPw {
+  background-color: transparent !important;
+  border-radius: 30px;
+  border: 1px solid rgba(18, 16, 76, 0.3) !important;
+  color: #2E314C !important;
+  box-shadow: none;
+  padding: 5px !important;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  color: #2E314C !important;
+  font-family: circe, sans-serif !important;
+  font-weight: 200 impotant !important;
+  margin: 10px;
+}
+
+#mikrono .custModifyPw:hover {
+  color: #2E314C !important;
+  border: 1px solid rgba(18, 16, 76, 0.7) !important;
+  background-color: transparent;
+}
+
+#mikrono .custHelp {
+  background-color: transparent !important;
+  border-radius: 30px;
+  border: 1px solid rgba(18, 16, 76, 0.3) !important;
+  color: #2E314C !important;
+  box-shadow: none;
+  padding: 5px !important;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  color: #2E314C !important;
+  font-family: circe, sans-serif !important;
+  font-weight: 200 impotant !important;
+  margin: 10px;
+}
+
+#mikrono .custHelp:hover {
+  color: #2E314C !important;
+  border: 1px solid rgba(18, 16, 76, 0.7) !important;
+  background-color: transparent;
+}
+
+#mikrono .custButton {
+  background-color: transparent !important;
+  border-radius: 30px;
+  border: 1px solid rgba(18, 16, 76, 0.3) !important;
+  color: #2E314C !important;
+  box-shadow: none;
+  padding: 5px !important;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  color: #2E314C !important;
+  font-family: circe, sans-serif !important;
+  font-weight: 200 impotant !important;
+  margin: 10px;
+}
+
+#mikrono .custButton:hover {
+  color: #2E314C !important;
+  border: 1px solid rgba(18, 16, 76, 0.7) !important;
+  background-color: transparent;
+}
+
+#mikrono .custConfirmButton {
+  background-color: transparent !important;
+  border-radius: 30px;
+  border: 1px solid rgba(18, 16, 76, 0.3) !important;
+  color: #2E314C !important;
+  box-shadow: none;
+  padding: 5px !important;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  color: #2E314C !important;
+  font-family: circe, sans-serif !important;
+  font-weight: 200 impotant !important;
+  margin: 10px;
+}
+
+#mikrono .custConfirmButton:hover {
+  color: #2E314C !important;
+  border: 1px solid rgba(18, 16, 76, 0.7) !important;
+  background-color: transparent;
+}
+
+#mikrono .custAnswerButton {
+  background-color: transparent !important;
+  border-radius: 30px;
+  border: 1px solid rgba(18, 16, 76, 0.3) !important;
+  color: #2E314C !important;
+  box-shadow: none;
+  padding: 5px !important;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  color: #2E314C !important;
+  font-family: circe, sans-serif !important;
+  font-weight: 200 impotant !important;
+  margin: 10px;
+}
+
+#mikrono .custAnswerButton:hover {
+  color: #2E314C !important;
+  border: 1px solid rgba(18, 16, 76, 0.7) !important;
+  background-color: transparent;
+}
+
+#mikrono .gwt-Button {
+  background-color: transparent !important;
+  border-radius: 30px;
+  border: 1px solid rgba(18, 16, 76, 0.3) !important;
+  color: #2E314C !important;
+  box-shadow: none;
+  padding: 5px !important;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  color: #2E314C !important;
+  font-family: circe, sans-serif !important;
+  font-weight: 200 impotant !important;
+  margin: 10px;
+}
+
+#mikrono .gwt-Button:hover {
+  color: #2E314C !important;
+  border: 1px solid rgba(18, 16, 76, 0.7) !important;
+  background-color: transparent;
+}
+
+#mikrono a {
+  color: #2E314C !important;
+}
+
+#mikrono label {
+  color: #2E314C !important;
+}
+
+#mikrono .gwt-Button.custGoToLoginButton {
+  color: #2E314C !important;
+}
+
+#mikrono .custGoToLoginButton [class^="icon-"] {
+  color: #2E314C !important;
+}
+
+#mikrono i {
+  color: #2E314C !important;
+  font-size: 14px !important;
+}
+
+#mikrono .x-panel-body {
+  border: 1px solid #2E314C !important;
+  padding: 10px !important;
+  background: white !important;
+  border-bottom-right-radius: 10px !important;
+  border-bottom-left-radius: 10px !important;
+}
+
+#mikrono .x-panel-header {
+  font-family: circe, sans-serif !important;
+  font-weight: 400 !important;
+  font-size: 12px !important;
+  border-top-right-radius: 10px !important;
+  border-top-left-radius: 10px !important;
+  color: #2E314C !important;
+  background-color: white !important;
+  border: 1px solid #2E314C !important;
+  padding: 5px !important;
+  padding-left: 15px !important;
+}
+
+#mikrono.custMikronoLoggedIn {
+  padding: 20px !important;
+  background: white !important;
+  box-shadow: none !important;
+  border: 1px solid rgba(18, 16, 76, 0.3) !important;
+  border-radius: 10px !important;
+}
+
+.custFormHeader {
+  font-weight: 200 !important;
+  font-size: 14px !important;
+  color: inherit !important;
+}
+
+.custQuestion {
+  font-weight: 200 !important;
+  font-size: 14px !important;
+  color: inherit !important;
+}
+
+.custOnlineAgenda {
+  color: #2E314C !important;
+}
+
+.x-btn-text {
+  background-color: transparent !important;
+  border-radius: 30px;
+  border: 1px solid rgba(18, 16, 76, 0.3) !important;
+  color: #2E314C !important;
+  box-shadow: none;
+  padding: 5px !important;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  color: #2E314C !important;
+  font-family: circe, sans-serif !important;
+  font-weight: 200 impotant !important;
+  margin: 10px;
+}
+
+.icon-user-md {
+  color: #2E314C !important;
+}
+
+.icon-edit {
+  color: #2E314C !important;
+}
+
+.icon-question-sign {
+  color: #2E314C !important;
+}
+
+.custErrorMessage {
+  color: #414141 !important;
+  background: white !important;
+  display: inline-block !important;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  background-color: #fffed7 !important;
+  font-family: circe, sans-serif;
+  width: 100%;
+  padding: 2%;
+  color: #2E314C;
+}
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.logo img {
+  height: 30px;
+  margin-bottom: 1%;
+}
+
+.lang-nav {
+  float: left;
+}
+
+.lang-nav a {
+  font-size: 13px;
+  color: #2E314C;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.lang-nav a:hover {
+  color: #2E314C;
+}
+
+.lang-nav a:active {
+  color: #2E314C;
+}
+
+.lang-nav a:link {
+  color: #2E314C;
+}
+
+.lang-nav a:visited {
+  color: #2E314C;
+}
+
+.navbar-inner {
+  width: 100%;
+  margin-bottom: 2%;
+}
+
+.navbar-inner #text {
+  text-transform: uppercase;
+}
+
+form {
+  font-size: 14px;
+}
+
+.navbar.transparent.navbar-inverse #text {
+  font-size: 12px;
+  color: #30334f;
+  font-weight: 400;
+  font-style: normal;
+  text-transform: uppercase;
+}
+
+.navbar.transparent.navbar-inverse .navbar-inner {
+  background: rgba(0, 0, 0, 0);
+}
+
+.logo img {
+  height: 30px;
+  margin-bottom: 1%;
+}
+
+.navbar-inner {
+  width: 100%;
+  margin-bottom: 2%;
+}
+
+form {
+  font-size: 14px;
+}
+
+select {
+  text-align: right;
+  border-radius: 24px;
+  padding: 5px;
+  font-weight: 400;
+  appearance: none;
+  background-image: url(...);
+  padding-left: 20px;
+  padding-right: 20px;
+  border: 0.5px solid rgba(160, 160, 233, 0.534);
+}
+
+select #select {
+  background-color: transparent;
+  font-size: 14px;
+  background-color: #ffffff;
+  color: #2E314C;
+  cursor: pointer;
+  border: none;
+}
+
+select::-ms-expand {
+  display: none;
+}
+
+select:hover {
+  border-color: #acafcd;
+}
+
+#custom-select {
+  font-size: 24px;
+  font-weight: 400;
+  display: inline;
+  border: 0.5px solid rgba(160, 160, 233, 0.534);
+}
+
+option {
+  font-size: 14px;
+}
+
+.logo-home img {
+  height: 40px;
+  margin-bottom: 1%;
+}
+
+.logo-title {
+  font-family: circe, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 14px;
+  margin-bottom: 3%;
+  color: #2E314C;
+}
+
+.home-layout {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 7%;
+}
+
+.home-container {
+  width: 30%;
+  border-radius: 10px;
+  padding: 2%;
+  padding-bottom: 3%;
+  margin: 0 auto;
+  background-color: rgba(255, 255, 255, 0.9);
+}
+
+.home-text {
+  font-size: 18px;
+  font-weight: 400;
+  margin: 1%;
+  color: #2E314C;
+  text-align: center;
+  font-family: circe, sans-serif;
+  font-style: normal;
+}
+
+.column {
+  float: left;
+  width: 40%;
+  padding-left: 3%;
+}
+
+.columntwo {
+  float: right;
+  width: 60%;
+  align-items: flex-end;
+}
+
+.container {
+  margin-top: -130px;
+  margin-left: 250px !important;
+  border-radius: 20px;
+  padding: 3%;
+  width: 100vw;
+  background-color: rgba(255, 255, 255, 0.9);
+}
+
+.container:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.doctor-picture {
+  border-radius: 50%;
+  width: 7vw;
+  height: 7vw;
+}
+
+.doctor-name {
+  font-family: circe, sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  margin-top: 10px;
+  color: #2E314C;
+}
+
+.doctor-job {
+  font-weight: 300;
+  font-size: 20px;
+  color: #2E314C;
+  margin-bottom: 15px;
+}
+
+.doctor-school {
+  font-size: 12px;
+}
+
+.doctor-phone {
+  text-decoration: none;
+  font-size: 12px;
+  color: #2E314C;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.doctor-phone i {
+  font-style: normal;
+  padding-right: 3%;
+}
+
+.doctor-phone i::before {
+  font-size: 22px;
+  color: #2E314C;
+  position: relative;
+  margin-bottom: 2px;
+}
+
+.doctor-phone a {
+  color: #2E314C;
+}
+
+.doctor-phone a:hover {
+  color: #2E314C;
+}
+
+.doctor-phone a:active {
+  color: #2E314C;
+}
+
+.doctor-phone a:link {
+  color: #2E314C;
+}
+
+.doctor-phone a:visited {
+  color: #2E314C;
+}
+
+.doctor-icons {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-top: 3%;
+}
+
+.doctor-icon-container {
+  margin-right: 20px;
+}
+
+.icon-box h6 {
+  font-family: circe, sans-serif !important;
+  font-weight: 400 !important;
+  font-size: 11px;
+  color: #2E314C;
+  text-decoration: none !important;
+  margin-top: 5px;
+  text-align: center;
+  font-style: normal;
+}
+
+.icon-box h6:hover {
+  transform: scale(1.1);
+  text-decoration: none;
+}
+
+.icon-box i {
+  font-size: 18px;
+  margin: 1%;
+  text-align: center;
+  text-decoration: none;
+  color: #2E314C;
+}
+
+.icon-box i:hover {
+  transform: scale(1.1);
+}
+
+.icon-box a:hover {
+  text-decoration: none;
+}
+
+.icon-box a:link {
+  text-decoration: none;
+}
+
+.icon-box a:active {
+  text-decoration: none;
+}
+
+.icon-box a:visited {
+  text-decoration: none;
+}
+
+.doctor-spec-title {
+  text-transform: uppercase;
+  font-size: 11px;
+  font-weight: 400;
+  text-decoration: none;
+  color: #2E314C;
+}
+
+.doctor-spec-title a:hover {
+  text-decoration: none;
+}
+
+.doctor-spec-title a:link {
+  text-decoration: none;
+}
+
+.doctor-spec-title a:active {
+  text-decoration: none;
+}
+
+.doctor-spec-title a:visited {
+  text-decoration: none;
+}
+
+.doctor-description {
+  font-size: 15px;
+}
+
+.fade-in-text {
+  animation: fadeIn linear 1.2s;
+  -webkit-animation: fadeIn linear 1.2s;
+  -moz-animation: fadeIn linear 1.2s;
+  -o-animation: fadeIn linear 1.2s;
+  -ms-animation: fadeIn linear 1.2s;
+}
+
+@media screen and (max-width: 600px) {
+  button {
+    font-size: 12px;
+  }
+  body {
+    padding: 0%;
+  }
+  .lang-nav {
+    font-size: 20px !important;
+    align-self: flex-end;
+  }
+  #custom-button-header {
+    margin-top: 4%;
+    margin-bottom: 2%;
+  }
+  #select {
+    margin-top: 2%;
+    text-align: right;
+    font-family: circe, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .navbar-inner {
+    width: 100%;
+    display: flex;
+    flex-flow: column;
+    align-items: flex-start;
+  }
+  .logo img {
+    width: 95%;
+    margin-left: 6%;
+  }
+  .logo-home img {
+    width: 60%;
+  }
+  .logo-title {
+    font-size: 14px;
+    margin-bottom: 10%;
+    display: inline-block;
+  }
+  .container {
+    width: 100%;
+    margin-top: 2%;
+    margin-left: 0 !important;
+  }
+  .column {
+    width: 100%;
+  }
+  .columntwo {
+    width: 100%;
+  }
+  .home-layout {
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+    top: 50%;
+    left: 50%;
+    margin-top: 10%;
+  }
+  .home-container {
+    width: 80%;
+    border-radius: 10px;
+    padding: 10%;
+    padding-bottom: 12%;
+    margin: 0 auto;
+  }
+  .home-text {
+    font-size: 16px;
+    line-height: normal;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+  }
+  .doctor-name {
+    font-size: 21px;
+  }
+  .doctor-job {
+    font-size: 18px;
+  }
+  .doctor-description {
+    width: 100%;
+    font-size: 12px;
+  }
+}
+/*# sourceMappingURL=style.css.map */

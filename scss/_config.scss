@@ -1,0 +1,12 @@
+$light-color: #ffffff;
+$font-stack: circe, sans-serif;
+$primary-color: #2E314C;
+$secondary-color: rgba(160, 160, 233, 0.534);
+
+%font-thin {
+	font-family: circe, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	line-height: 1.6;
+	color: $primary-color;
+}

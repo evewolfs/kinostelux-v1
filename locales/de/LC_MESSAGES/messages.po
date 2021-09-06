@@ -1,0 +1,217 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-09-05 22:54+0200\n"
+"PO-Revision-Date: 2021-09-05 23:11+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_LU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: index.php\n"
+"X-Poedit-SearchPath-1: gregory.php\n"
+"X-Poedit-SearchPath-2: cabinet.php\n"
+"X-Poedit-SearchPath-3: home.php\n"
+"X-Poedit-SearchPath-4: malika.php\n"
+"X-Poedit-SearchPath-5: marie.php\n"
+"X-Poedit-SearchPath-6: virginie.php\n"
+
+#: gregory.php:46
+msgid "Kinésithérapeute et Ostéopathe D.O"
+msgstr "Physiotherapeut und Osteopath D.O."
+
+#: gregory.php:58 malika.php:58 marie.php:54 virginie.php:49
+msgid "Langues"
+msgstr "Sprachen"
+
+#: gregory.php:60
+msgid "Français, Luxembourgeois, Anglais, Allemand"
+msgstr "Französich, Luxemburgisch, Deutsch, Englisch"
+
+#: gregory.php:63 malika.php:63 marie.php:59 virginie.php:54
+msgid "Spécialités"
+msgstr "Spezialitäten"
+
+#: gregory.php:65
+msgid "Approche hollistique de la rééducation fonctionnelle"
+msgstr "Hollistischen Ansatz zur funktionelle rehabilitation"
+
+#: gregory.php:66
+msgid "Rééquilibration posturale"
+msgstr "Posturale Verbesserungen"
+
+#: gregory.php:67
+msgid "Ajustements articulaires"
+msgstr "Gelenkangleichungen"
+
+#: gregory.php:68
+msgid "Libération des tensions myofaciales et traitment du système myofacial"
+msgstr "Behandlung des Myofaszialen Systems"
+
+#: gregory.php:69
+msgid "Fibrolyse Diacutané (Crochetage) "
+msgstr "Diakutane Fibrolyse (Hakentechnik) "
+
+#: gregory.php:70
+msgid "Renforcemnent musculaire"
+msgstr "Muskelstärkung"
+
+#: gregory.php:73 malika.php:74 marie.php:72 virginie.php:70
+msgid "Formation"
+msgstr "Ausbildung"
+
+#: gregory.php:75
+msgid "Université Libre de Bruxelles (2012)"
+msgstr "Freie Universität Brüssel (2012)"
+
+#: gregory.php:76
+msgid "Collège Belge d’Ostopathie (2017)"
+msgstr "Belgian College of Osteopathy (2017)"
+
+#: index.php:29
+msgid "Exemple"
+msgstr "Beispiel"
+
+#: malika.php:46 marie.php:44 virginie.php:43
+msgid "Kinésithérapeute"
+msgstr "Physiotherapeut"
+
+#: malika.php:52 marie.php:48 virginie.php:45
+msgid "CABINET"
+msgstr "KABINETT"
+
+#: malika.php:60 marie.php:56 virginie.php:51
+msgid "Français, Anglais"
+msgstr "Französich, Englisch"
+
+#: malika.php:65
+msgid "Kinésithérapie générale adultes et enfants"
+msgstr "Allgemeine physiotherapie erwachsene und kinder"
+
+#: malika.php:66
+msgid "Rééducation orthopédique adultes et enfants"
+msgstr "Orthopädische rehabilitation für erwachsene und kinder"
+
+#: malika.php:67
+msgid "Kinésithérapie respiratoire adultes et enfants"
+msgstr "Atmungsphysiotherapie erwachsene und kinder"
+
+#: malika.php:68 marie.php:65
+msgid "Rééducation post-chirurgicale"
+msgstr "Postoperative Rehabilitation"
+
+#: malika.php:69
+msgid "Rééducation neurologique"
+msgstr "Neurologische Rehabilitation"
+
+#: malika.php:70
+msgid "Rééducation pour paralysie faciale"
+msgstr "Rehabilitation bei gesichtslähmung"
+
+#: malika.php:71
+msgid "Soins à domicile dans le quartier (sous réserve de disponibilité)"
+msgstr "Heimpflege in der nachbarschaft (nach verfügbarkeit)"
+
+#: malika.php:76
+msgid "Université de Liège (2007)"
+msgstr "Lüttische Univeristät (2007)"
+
+#: marie.php:61
+msgid "Kinésithérapie générale pour adultes et enfants"
+msgstr "Allgemeine physiotherapie für erwachsene und kinder"
+
+#: marie.php:62
+msgid "Rééducation uro-gynécologique féminine"
+msgstr "Urogynäkologische rehabilitation der frau"
+
+#: marie.php:63
+msgid "Drainage lymphatique manuel"
+msgstr "Manuelle lymphdrainage"
+
+#: marie.php:64
+msgid "Rééducation des troubles de l'articulation temporo-mandibullaire"
+msgstr "Rehabilitation des kiefergelenk"
+
+#: marie.php:66
+msgid "Rééducation orthopédique pour adultes et enfants"
+msgstr "Orthopädische rehabilitation für erwachsene und kinder"
+
+#: marie.php:67
+msgid "Rééducation neurologique pour adultes et enfants"
+msgstr "Neurologische rehabilitation für arme erwachsene und kinder"
+
+#: marie.php:68 marie.php:69
+msgid "Kinésithérapie respiratoire pour adultes et enfants"
+msgstr "Atmungsphysiotherapie für erwachsene und kinder"
+
+#: marie.php:74
+msgid "Haute École Robert Schuman, Libramont (2016)"
+msgstr "Robert Schuman college HERS Libramont (2016)"
+
+#: virginie.php:56
+msgid "Rééducation respiratoire"
+msgstr "Atmungrehabilitation"
+
+#: virginie.php:57
+msgid "Rééducation fonctionnelle"
+msgstr "Funktionelle Rehabilitation"
+
+#: virginie.php:58
+msgid "Le drainage lymphatique et cancer du sein"
+msgstr "Lymphdrainage und postoperative brustkreepsbehandungen"
+
+#: virginie.php:59
+msgid "HMTC (Harmonisation tête et cou)"
+msgstr "HMTC (kopf- und nackenharmonisierung)"
+
+#: virginie.php:60
+msgid " Articulation temporo-mandibulaire"
+msgstr " Kiefergelenk behandlungen"
+
+#: virginie.php:61
+msgid "Trigger Point (Traitement sur des points gâchettes)"
+msgstr "Triggerpoint Therapie"
+
+#: virginie.php:62
+msgid "L'endermologie et traitements des cicatrices"
+msgstr "Endermologie und behandlung von narben"
+
+#: virginie.php:63
+msgid "La thérapie manuelle (Maitland)"
+msgstr "Manuelle Therapie (Maitland)"
+
+#: virginie.php:64
+msgid "Technique de Crochetage"
+msgstr "Diacutane fibrolyse durch hakentechnik"
+
+#: virginie.php:65
+msgid "L'initiation à la médecine Chinoise"
+msgstr "Einführung in die chinesische medizin"
+
+#: virginie.php:66
+msgid "Ventouses"
+msgstr "Saugnäpfe"
+
+#: virginie.php:72
+msgid "Université de Liège (2005)"
+msgstr "Lüttiche Univeristät (2005)"
+
+#~ msgid "Ostéopathe"
+#~ msgstr "Osteopath"
+
+#~ msgid "Description française"
+#~ msgstr "Deutsche beschreibung"
+
+#~ msgid "Accueil"
+#~ msgstr "Heim"
+
+#~ msgid "Bonjour & Bienvenue"
+#~ msgstr "Hallo, willkommen"
+
+#~ msgid "Thank you"
+#~ msgstr "DankU"
